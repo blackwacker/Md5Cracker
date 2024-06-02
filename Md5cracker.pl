@@ -67,12 +67,12 @@ print " # Black Wacker MD5 Hash Cracker -                        				    #\n";
 print " #  						                                                    #\n";
 print " # good source from good people for your profit working                      #\n";
 print " #                                                                           #\n";
-print " # Usage: perl hzMd5Cracker.pl <setChar> <minChar> <maxChar> <hashMD5>       #\n";
+print " # Usage: perl Md5Cracker.pl <setChar> <minChar> <maxChar> <hashMD5>       #\n";
 print " # Character options: a - small letters # a,b,c                              #\n";
 print " #                    A - big letters   # A,B,C                              #\n";
 print " #                    n - numbers       # 1,2,3                              #\n";
 print " #                    s - symbols       # !,#,@                              #\n";
-print " # Example: ./hzMd5Cracker.pl aAns 1 4 9bd4f3afae4f32050d2b0e467c9fb8ef      #\n";
+print " # Example: ./Md5Cracker.pl aAns 1 4 9bd4f3afae4f32050d2b0e467c9fb8ef      #\n";
 print " #                                                                           #\n";
 print " #############################################################################\n";
 sys.exit(1)
